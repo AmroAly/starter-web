@@ -27,4 +27,4 @@ Add a line for rebasing example.
 
 ### Copyright
 
-2017 git.training
+2017 git.training. All rights served
