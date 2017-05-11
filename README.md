@@ -22,6 +22,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Please fork this repo and then issue pull request fo review.
 
+Add a line for rebasing example.
+
 ### Copyright
 
 2017 git.training
