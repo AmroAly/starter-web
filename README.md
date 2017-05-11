@@ -6,7 +6,7 @@ Adding a line for rebasing example.
 
 then more changes from myfeature branch.
 
-then more and more changes from myfeature once more.
+Updating for emergency fix after stashing.
 ## Introduction
 
 This is example is to show different parts of the git repositry and various commands using a web project.
