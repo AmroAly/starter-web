@@ -6,6 +6,8 @@
 
 	All my students	
 
+	Please Leave a review if you find that course useful.
+	
 # TECHNOLOGIES
 
 	HTML5, CSS, JQUERY
