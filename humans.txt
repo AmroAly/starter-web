@@ -5,3 +5,7 @@
 # THANKS
 
 	All my students	
+
+# TECHNOLOGIES
+
+	HTML5, CSS, JQUERY
